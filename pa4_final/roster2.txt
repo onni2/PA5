@@ -1,0 +1,27 @@
+//
+Wolf 1
+Creature
+Wolf
+4
+6
+5
+1
+5
+//
+Wolf 2
+Creature
+Wolf
+4
+6
+5
+1
+2
+//
+Wolf 3
+Creature
+Wolf
+4
+6
+5
+1
+5

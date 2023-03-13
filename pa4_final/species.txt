@@ -1,0 +1,12 @@
+Ghoul
+4
+4
+2
+false
+6
+Wolf
+4
+6
+5
+true
+2
